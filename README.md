@@ -3,6 +3,7 @@ Exercício proposto na disciplina de Sistemas Distribuídos
 
 Enunciado:
 Você foi contratado(a) para desenvolver a comunicação em um jogo de movimentação de bolas em um campo. A principal parte de jogabilidade já está pronta e disponível no código “game.py” no repositório do GitHub: https://github.com/Garrocho/sistemas_distribuidos/tree/main/objetos
+(os arquivos estão no diretório exemplos_garrocho, caso o repositório não esteja disponível)
 
 Para testar o jogo, execute em um terminal o seguinte comando:
 
